@@ -6,7 +6,7 @@
  "version": "1.0.2",
  "min_os_version_major": 3,
  "url": "https://coding.net/u/zhangyt0906/p/plugin_manifests/git/raw/master/packages/take-photo/manifest.json",
- "zip": "https://coding.net/u/zhangyt0906/p/Take-Photo/archive/master.zip",
+ "zip": "https://coding.net/u/zhangyt0906/p/Take-Photo/git/archive/master.zip",
  "executable": "python",
  "args": ["Take-Photo-master/take_photo.py"]
 }

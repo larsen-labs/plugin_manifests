@@ -6,7 +6,7 @@
  "version": "0.0.1",
  "min_os_version_major": 4,
  "url": "https://coding.net/u/zhangyt0906/p/plugin_manifests/git/raw/master/packages/historical-plant-detection/manifest.json",
- "zip": "https://coding.net/u/zhangyt0906/p/plugin_manifests/archive/master.zip",
+ "zip": "https://coding.net/u/zhangyt0906/p/plugin_manifests/git/archive/master.zip",
  "executable": "python",
  "args": ["../plant-detection/plant-detection-master/quickscripts/download_and_detect_coordinates.py"]
 }

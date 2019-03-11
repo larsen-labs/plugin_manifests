@@ -1,0 +1,51 @@
+{
+ "$schema": "http://json-schema.org/draft-04/schema#",
+ "id": "https://raw.githubusercontent.com/plugin_manifests/master/schema.json",
+ "title": "插件概要",
+ "type": "object",
+ "properties": {
+  "package": {
+   "description": "包名",
+   "type": "string"
+  },
+  "language": {
+   "description": "程序包编程语言",
+   "type": "string"
+  },
+  "author": {
+   "description": "作者",
+   "type": "string"
+  },
+  "description": {
+   "description": "说明",
+   "type": "string"
+  },
+  "version": {
+   "description": "版本",
+   "type": "string"
+  },
+  "min_os_version_major": {
+   "description": "最低 Larsen OS 版本",
+   "type": "integer"
+  },
+  "url": {
+   "description": "此包的URL",
+   "type": "string"
+  },
+  "zip": {
+   "description": "发布包的URL",
+   "type": "string"
+  },
+  "executable": {
+   "description": "可执行文件的名称",
+   "type": "string"
+  },
+  "args": {
+   "description": "可执行文件的参数",
+   "type": "array"
+  }
+ },
+ "required": ["package", "language", "author", "description",
+  "version", "min_os_version_major", "url", "zip", "args", "executable"
+ ]
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "manifest": "https://raw.githubusercontent.com/plugin_manifests/master/packages/take-photo/manifest.json",
+    "name": "take-photo"
+  },
+  {
+    "manifest": "https://raw.githubusercontent.com/plugin_manifests/master/packages/camera-calibration/manifest.json",
+    "name": "camera-calibration"
+  },
+  {
+    "manifest": "https://raw.githubusercontent.com/plugin_manifests/master/packages/plant-detection/manifest.json",
+    "name": "plant-detection"
+  },
+  {
+    "manifest": "https://raw.githubusercontent.com/plugin_manifests/master/packages/historical-camera-calibration/manifest.json",
+    "name": "historical-camera-calibration"
+  },
+  {
+    "manifest": "https://raw.githubusercontent.com/plugin_manifests/master/packages/historical-plant-detection/manifest.json",
+    "name": "historical-plant-detection"
+  }
+]

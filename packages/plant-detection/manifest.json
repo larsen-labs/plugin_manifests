@@ -5,7 +5,7 @@
  "description": "检测和标记植物。需要安装相机校准",
  "version": "0.0.4",
  "min_os_version_major": 4,
- "url": "https://raw.githubusercontent.com/plugin_manifests/master/packages/plant-detection/manifest.json",
+ "url": "https://raw.githubusercontent.com/larsen-labs/plugin_manifests/master/packages/plant-detection/manifest.json",
  "zip": "https://coding.net/u/zhangyt0906/p/plant-detection/git/archive/master.zip",
  "executable": "python",
  "args": ["plant-detection-master/quickscripts/capture_and_detect_coordinates.py"]

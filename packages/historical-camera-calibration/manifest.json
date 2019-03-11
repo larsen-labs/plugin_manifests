@@ -5,7 +5,7 @@
  "description": "使用历史图像校准摄像机用于植物检测",
  "version": "0.0.1",
  "min_os_version_major": 4,
- "url": "https://raw.githubusercontent.com/plugin_manifests/master/packages/historical-camera-calibration/manifest.json",
+ "url": "https://raw.githubusercontent.com/larsen-labs/plugin_manifests/master/packages/historical-camera-calibration/manifest.json",
  "zip": "https://coding.net/u/zhangyt0906/p/plugin_manifests/git/archive/master.zip",
  "executable": "python",
  "args": ["../plant-detection/plant-detection-master/quickscripts/download_and_calibrate.py"]

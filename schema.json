@@ -1,6 +1,6 @@
 {
  "$schema": "http://json-schema.org/draft-04/schema#",
- "id": "https://raw.githubusercontent.com/plugin_manifests/master/schema.json",
+ "id": "https://raw.githubusercontent.com/larsen-labs/plugin_manifests/master/schema.json",
  "title": "插件概要",
  "type": "object",
  "properties": {

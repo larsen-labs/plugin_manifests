@@ -20,13 +20,21 @@
    "description": "说明",
    "type": "string"
   },
-  "version": {
-   "description": "版本",
+  "package_version": {
+   "description": "包版本",
    "type": "string"
   },
-  "min_os_version_major": {
-   "description": "最低 Larsen OS 版本",
-   "type": "integer"
+  "plugin_manifest_version": {
+   "description": "插件清单版本",
+   "type": "string"
+  },
+  "larsen_os_version_requirement": {
+   "description": "需要的Larsen系统版本",
+   "type": "string"
+  },
+  "plugin_tools_version_requirement": {
+   "description": "需要的插件工具版本",
+   "type": "string"
   },
   "url": {
    "description": "此包的URL",
@@ -42,10 +50,11 @@
   },
   "args": {
    "description": "可执行文件的参数",
-   "type": "array"
+   "type": "string"
   }
  },
- "required": ["package", "language", "author", "description",
-  "version", "min_os_version_major", "url", "zip", "args", "executable"
+ "required": ["package", "author", "zip", "executable", "args",
+   "package_version", "larsen_os_version_requirement",
+   "plugin_manifest_version_requirement", "plugin_tools_version_requirement"
  ]
 }

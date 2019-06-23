@@ -1,0 +1,22 @@
+[
+  {
+    "manifest": "https://raw.githubusercontent.com/larsen-labs/plugin_manifests/master/packages/take-photo/manifest_v2.json",
+    "name": "take-photo"
+  },
+  {
+    "manifest": "https://raw.githubusercontent.com/larsen-labs/plugin_manifests/master/packages/camera-calibration/manifest_v2.json",
+    "name": "camera-calibration"
+  },
+  {
+    "manifest": "https://raw.githubusercontent.com/larsen-labs/plugin_manifests/master/packages/plant-detection/manifest_v2.json",
+    "name": "plant-detection"
+  },
+  {
+    "manifest": "https://raw.githubusercontent.com/larsen-labs/plugin_manifests/master/packages/historical-camera-calibration/manifest_v2.json",
+    "name": "historical-camera-calibration"
+  },
+  {
+    "manifest": "https://raw.githubusercontent.com/larsen-labs/plugin_manifests/master/packages/historical-plant-detection/manifest_v2.json",
+    "name": "historical-plant-detection"
+  }
+]

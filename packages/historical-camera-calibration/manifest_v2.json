@@ -1,0 +1,15 @@
+{
+    "package": "historical-camera-calibration",
+    "language": "python",
+    "author": "funfarm.fun",
+    "description": "使用历史图像校准摄像机用于植物检测",
+    "plugin_manifest_version": "2.0",
+    "package_version": "0.0.1",
+    "larsen_os_version_requirement": ">=4.0.0",
+    "plugin_tools_version_requirement": ">=0.0.0",
+    "url": "https://raw.githubusercontent.com/larsen-labs/plugin_manifests/master/packages/historical-camera-calibration/manifest.json",
+    "zip": "https://github.com/larsen-labs/plugin_manifests/archive/master.zip",
+    "executable": "python",
+    "args": "../plant-detection/plant-detection-master/quickscripts/download_and_calibrate.py"
+   }
+   

@@ -3,7 +3,7 @@
  "language": "python",
  "author": "funfarm.fun",
  "description": "校准摄像机以用于植物检测",
- "version": "0.0.1",
+ "version": "0.0.2",
  "min_os_version_major": 4,
  "url": "https://raw.githubusercontent.com/larsen-labs/plugin_manifests/master/packages/camera-calibration/manifest.json",
  "zip": "https://github.com/larsen-labs/plugin_manifests/archive/master.zip",

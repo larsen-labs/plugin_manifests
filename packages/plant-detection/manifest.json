@@ -3,7 +3,7 @@
  "language": "python",
  "author": "funfarm.fun",
  "description": "检测和标记植物。需要安装相机校准",
- "version": "0.0.4",
+ "version": "0.0.6",
  "min_os_version_major": 4,
  "url": "https://raw.githubusercontent.com/larsen-labs/plugin_manifests/master/packages/plant-detection/manifest.json",
  "zip": "https://coding.net/u/zhangyt0906/p/plant-detection/git/archive/master.zip",

@@ -3,7 +3,7 @@
  "language": "python",
  "author": "funfarm.fun",
  "description": "在历史图像中发现和标记植物。需要安装相机校准",
- "version": "0.0.1",
+ "version": "0.0.2",
  "min_os_version_major": 4,
  "url": "https://raw.githubusercontent.com/larsen-labs/plugin_manifests/master/packages/historical-plant-detection/manifest.json",
  "zip": "https://github.com/larsen-labs/plugin_manifests/archive/master.zip",
